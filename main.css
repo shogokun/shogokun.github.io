@@ -19,6 +19,18 @@ header {
   text-align: right;
 }
 
+p {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  width: 350px;
+}
+
+a {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
 .shogo {
   font-size: 30px;
   font-weight: bolder;
@@ -29,5 +41,14 @@ header {
 }
 
 .img {
+  text-align: center;
+}
+
+.imgs {
+  margin-top: 50px;
+}
+
+.link {
+  margin-top: 30px;
   text-align: center;
 }
