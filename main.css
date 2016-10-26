@@ -1,0 +1,23 @@
+body {
+  background-color: #e6e7e0;
+  font-family: 'Avenir Next Condensed', Avenir, 'sans-serif';
+  color: #424242;
+}
+
+h1 ,h2 {
+  margin: 0;
+}
+
+header {
+  padding: 5px 15px;
+  text-align: right;
+}
+
+.shogo {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.lub {
+  font-size: 27px;
+}
